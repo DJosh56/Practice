@@ -3,4 +3,10 @@ welcome
 new first file 
 first commit
 
-this is inside DJosh56-patch-1 branch for testing merge operation and pull request
+
+this is code from  DJosh56-patch-1 branch for testing merge operation and pull request
+
+new code added for testing 
+new update
+
+
